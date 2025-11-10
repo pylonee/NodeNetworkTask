@@ -1,0 +1,17 @@
+.vs/
+*.vcxproj.user
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
+
+build/
+Debug/
+Release/
+x64/
+x86/
+*.tlog
+
+Thumbs.db
+.DS_Store
